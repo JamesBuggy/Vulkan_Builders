@@ -4,7 +4,7 @@ This Repo contains a collection of classes which wrap Vulkan components and thei
 Using these builders provides several benefits:
 - Code is more readable and self-explanatory.
 - The complex Vulkan setup details are abstracted behind a clean and consistent API.
-- The configuration of different Vulkan objects are seperated into distinct builders, making it easier to manage and update specific parts of the setup.
+- The configuration of different Vulkan objects are separated into distinct builders, making it easier to manage and update specific parts of the setup.
 - Extension and modification of the setup process can easily be done by adding or modifying builder methods as needed.
 
 ## Example Usage:
